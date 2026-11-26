@@ -62,9 +62,9 @@ Follow these steps to troubleshoot your connection:
 
 Beyond troubleshooting temporary network problems, it is also important to maintain a stable connection during regular Discord use. Frequently switching network environments may introduce changes to your account's access environment and affect normal access and verification.
 
-For users who access Discord regularly, planning a stable network connection in advance is recommended. For example, you can configure a residential proxy from **IPFoxy.** Its IP addresses come from networks that more closely resemble everyday residential connections and cover multiple countries and regions, helping provide a consistent network environment.
+For users who access Discord regularly, planning a stable network connection in advance is recommended. For example, you can configure a residential proxy from [**IPFoxy.**](https://app.ipfoxy.com/login?source=Github) Its IP addresses come from networks that more closely resemble everyday residential connections and cover multiple countries and regions, helping provide a consistent network environment.
 
-You can also use [IPFoxy](https://app.ipfoxy.com/login?source=Github)Proxy Manager to configure the proxy in the Chrome browser profile you regularly use for Discord. This helps keep the browser's IP address relatively consistent when accessing Discord, making the network environment more consistent across login, verification, and everyday use. It can reduce access issues caused by frequent changes in IP addresses.
+You can also use IPFoxy Proxy Manager to configure the proxy in the Chrome browser profile you regularly use for Discord. This helps keep the browser's IP address relatively consistent when accessing Discord, making the network environment more consistent across login, verification, and everyday use. It can reduce access issues caused by frequent changes in IP addresses.
 
 <img width="415" height="207" alt="image" src="https://github.com/user-attachments/assets/796691e4-bb64-4668-a669-22ea9d17a056" />
 
